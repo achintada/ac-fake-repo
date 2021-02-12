@@ -3,7 +3,7 @@
 
 		{
 			"ActivityName": "Badminton",
-			"CompName": "IPL2021",
+			"CompName": "BPL2021",
 			"CompLevel": "Professional",
 			"CompDateTime": "12/2/21 17:00",
 			"CompLoc": "Honor Academy, Medavakkam, Chennai",
@@ -12,7 +12,7 @@
 		},
 		{
 			"ActivityName": "Cricket",
-			"CompName": "IPL2021",
+			"CompName": "CPL2021",
 			"CompLevel": "Beginner",
 			"CompDateTime": "13/02/2021 17:00:00",
 			"CompLoc": "Honor Academy, Medavakkam, Chennai",
@@ -21,7 +21,7 @@
 		},
 		{
 			"ActivityName": "Football",
-			"CompName": "IPL2021",
+			"CompName": "FPL2021",
 			"CompLevel": "Intermediate",
 			"CompDateTime": "14/02/2021 17:00:00",
 			"CompLoc": "Honor Academy, Medavakkam, Chennai",
@@ -30,7 +30,7 @@
 		},
 		{
 			"ActivityName": "Tennis",
-			"CompName": "IPL2021",
+			"CompName": "TPL2021",
 			"CompLevel": "Ace",
 			"CompDateTime": "15/02/2021 17:00:00",
 			"CompLoc": "Honor Academy, Medavakkam, Chennai",
